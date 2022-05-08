@@ -1,2 +1,2 @@
 # acai-com-farinha-mais-jogodaVelha
-Para jogar comendo açaí com farinha
+Para jogar com os amigos comendo açaí, farinha e charque frito.
