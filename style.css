@@ -144,7 +144,7 @@ main.end {
 }
 
 .game-end-message button {
-  font-size: 14pt;
+  font-size: 15pt;
   background-color: var(--background);
   border: 1px solid white;
   color: white;
